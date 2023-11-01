@@ -6,3 +6,6 @@ union select 'mouth', 2
 union select 'teeth', 32
 Union select 'toungue', 1
 
+insert body(bodypart)
+select 'hair'
+
